@@ -1,6 +1,4 @@
-## Declaração de autoria: Declaro que este documento foi produzido em sua totalidade por mim, sem consultas a outros alunos, professores ou qualquer outra pessoa. 
-## Matricula: 2011530
-## Nome: Joao Vinicius Vitral
+#    @jxvtrl    #
 
 def replica(s, c = False):
     v = ("a", "e", "i", "o", "u")
